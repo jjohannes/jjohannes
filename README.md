@@ -9,7 +9,7 @@
 
 **Gradle How-To GitHub repositories**
 - 🔌 [gradle-plugins-howto](https://github.com/jjohannes/gradle-plugins-howto) How to write Gradle plugins - answers to questions and alternative implementation solutions
-- 🗂️ [gradle-project-setup-howto](https://github.com/jjohannes/gradle-project-setup-howtos) How to structure a growing Gradle project with smart dependency management?</li>
+- 🗂️ [gradle-project-setup-howto](https://github.com/jjohannes/gradle-project-setup-howto) How to structure a growing Gradle project with smart dependency management?</li>
 - 🧶 [idiomatic-gradle](https://github.com/jjohannes/idiomatic-gradle) How to idiomatically structure a large build
 - 📚 [gradle-demos](https://github.com/jjohannes/gradle-demos) A collection of samples demonstrating how to do different things in Gradles
 
