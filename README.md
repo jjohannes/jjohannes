@@ -1,9 +1,11 @@
 ### Jendrik Johannes | onepiece.Software
 
 **Gradle Training and Consulting**
-- 🔥 Learn what I offer on [onepiece.Software](https://onepiece.software/)
+- 🚀 Online course - Modern Gradle Fundamentals [Buy on Udemy](https://www.udemy.com/course/modern-gradle-fundamentals/?referralCode=3AC1B96C0EBE6F4FBE6E)
+- 🏎️ Training on your Gradle topics [onepiece.Software/#training](https://onepiece.software/#training)
+- ✨ Support with your Gradle project [onepiece.Software/#consulting](https://onepiece.software/#consulting)
 
-**All my online content is free. If you want to support my work...**
+**Most of my online content is free. If you want to support my work...**
 - 🗣️ Tell others about my work, [subscribe to my YouTube channel](https://www.youtube.com/c/onepieceSoftware), Star my GitHub repositories, [follow me on Twitter](https://twitter.com/jeoj)
 - 💬 Give feedback and ask questions: Use the YouTube comment sections or open an issue in one of my GitHub repositories
 
