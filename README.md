@@ -6,8 +6,9 @@
 - ✨ Support with your Gradle project [onepiece.Software/#consulting](https://onepiece.software/#consulting)
 
 **Most of my online content is free. If you want to support my work...**
-- 🗣️ Tell others about my work, [subscribe to my YouTube channel](https://www.youtube.com/c/onepieceSoftware), Star my GitHub repositories, [follow me on Twitter](https://twitter.com/jeoj)
+- 🗣️ Tell others about my work, [subscribe to my YouTube channel](https://youtube.com/@jjohannes), Star my GitHub repositories, [follow me on Mastodon](https://mastodon.social/@jendrik)
 - 💬 Give feedback and ask questions: Use the YouTube comment sections or open an issue in one of my GitHub repositories
+- 💚 If my work helps you, you can support me in doing more: [paypal.me/onepiecesw](https://paypal.me/onepiecesw) 
 
 **Gradle How-To GitHub repositories**
 - 🔌 [gradle-plugins-howto](https://github.com/jjohannes/gradle-plugins-howto) How to write Gradle plugins - answers to questions and alternative implementation solutions
@@ -15,13 +16,12 @@
 - 🧶 [idiomatic-gradle](https://github.com/jjohannes/idiomatic-gradle) How to idiomatically structure a large build
 - 📚 [gradle-demos](https://github.com/jjohannes/gradle-demos) A collection of samples demonstrating how to do different things in Gradles
 
-**Gradle Plugins maintained by me**
+**Gradle Plugins maintained by me in the [GradleX](https://gradlex.org) project**
+- ⚙️ [build-parameters](https://github.com/gradlex-org/build-parameters) Compile-safe access to parameters supplied to a Gradle build
+- 📖 [java-ecosystem-capabilities](https://github.com/gradlex-org/java-ecosystem-capabilities) Adds Capabilities to well-known Components hosted on Maven Central
 - 🍯 [extra-java-module-info](https://github.com/gradlex-org/extra-java-module-info) Add Java Module information to legacy Java libraries
 - 🔄 [java-module-dependencies](https://github.com/gradlex-org/java-module-dependencies) Makes Gradle respect the dependencies defined in 'module-info.java' files
-- 🪟 [java-module-testing](https://github.com/gradlex-org/java-module-testing) Test Java Modules (whitebox and blackbox) without the hassle
-- ⚙️ [build-parameters](https://github.com/gradlex-org/build-parameters) Compile-safe access to parameters supplied to a Gradle build
-- 🍐 [missing-metadata-guava](https://github.com/jjohannes/missing-metadata-guava) Provides additional metadata for Guava
-- 📖 [java-ecosystem-capabilities](https://github.com/jjohannes/java-ecosystem-capabilities) Adds Capabilities to well-known Components hosted on Maven Central
+- 🔍 [java-module-testing](https://github.com/gradlex-org/java-module-testing) Test Java Modules (whitebox and blackbox) without the hassle
 
 **Understanding Gradle video series**
 
@@ -52,3 +52,4 @@
 [<img src="https://onepiecesoftware.github.io/img/videos/23.png" width="24%">](https://www.youtube.com/watch?v=nHb0kIcTrFE&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
 [<img src="https://onepiecesoftware.github.io/img/videos/24.png" width="24%">](https://www.youtube.com/watch?v=pKsn2eZWQK0&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
 [<img src="https://onepiecesoftware.github.io/img/videos/25.png" width="24%">](https://www.youtube.com/watch?v=XnVZdMROVG8&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
+[<img src="https://onepiecesoftware.github.io/img/videos/26.png" width="24%">](https://www.youtube.com/watch?v=HqAp9JBl2_U&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
