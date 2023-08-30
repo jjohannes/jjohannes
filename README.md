@@ -60,3 +60,4 @@
 [<img src="https://onepiecesoftware.github.io/img/videos/31.png" width="24%">](https://www.youtube.com/watch?v=X9u1taDwLSA&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
 [<img src="https://onepiecesoftware.github.io/img/videos/32.png" width="24%">](https://www.youtube.com/watch?v=T9U0BOlVc-c&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
 [<img src="https://onepiecesoftware.github.io/img/videos/33.png" width="24%">](https://www.youtube.com/watch?v=6rFEDcP8Noc&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
+[<img src="https://onepiecesoftware.github.io/img/videos/34.png" width="24%">](https://www.youtube.com/watch?v=n8Tgr4aLB18&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
