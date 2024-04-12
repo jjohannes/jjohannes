@@ -18,7 +18,7 @@
 
 **Gradle Plugins maintained by me in the [GradleX](https://gradlex.org) project**
 - ⚙️ [build-parameters](https://github.com/gradlex-org/build-parameters) Compile-safe access to parameters supplied to a Gradle build
-- 📖 [java-ecosystem-capabilities](https://github.com/gradlex-org/java-ecosystem-capabilities) Adds Capabilities to well-known Components hosted on Maven Central
+- 📖 [jvm-dependency-conflict-resolution](https://github.com/gradlex-org/jvm-dependency-conflict-resolution) Adds Capabilities to well-known Components hosted on Maven Central
 - 🍯 [extra-java-module-info](https://github.com/gradlex-org/extra-java-module-info) Add Java Module information to legacy Java libraries
 - 🔄 [java-module-dependencies](https://github.com/gradlex-org/java-module-dependencies) Makes Gradle respect the dependencies defined in 'module-info.java' files
 - 🔍 [java-module-testing](https://github.com/gradlex-org/java-module-testing) Test Java Modules (whitebox and blackbox) without the hassle
