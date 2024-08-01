@@ -11,9 +11,10 @@
 - 💚 If my work helps you, you can support me in doing more: [paypal.me/onepiecesw](https://paypal.me/onepiecesw) 
 
 **Gradle How-To GitHub repositories**
+- 🗂️ [gradle-project-setup-howto](https://github.com/jjohannes/gradle-project-setup-howto) How to structure a growing Gradle project with smart dependency management
+- 🧶 [idiomatic-gradle](https://github.com/jjohannes/idiomatic-gradle) How to idiomatically structure a Gradle build
+- 🧩 [java-module-system](https://github.com/jjohannes/java-module-system) How to reduce _Gradle noise_ by using the Java Module System
 - 🔌 [gradle-plugins-howto](https://github.com/jjohannes/gradle-plugins-howto) How to write Gradle plugins - answers to questions and alternative implementation solutions
-- 🗂️ [gradle-project-setup-howto](https://github.com/jjohannes/gradle-project-setup-howto) How to structure a growing Gradle project with smart dependency management?</li>
-- 🧶 [idiomatic-gradle](https://github.com/jjohannes/idiomatic-gradle) How to idiomatically structure a large build
 - 📚 [gradle-demos](https://github.com/jjohannes/gradle-demos) A collection of samples demonstrating how to do different things in Gradles
 
 **Gradle Plugins maintained by me in the [GradleX](https://gradlex.org) project**
