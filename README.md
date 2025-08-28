@@ -13,9 +13,12 @@
 **Gradle How-To GitHub repositories**
 - 🗂️ [gradle-project-setup-howto](https://github.com/jjohannes/gradle-project-setup-howto) How to structure a growing Gradle project with smart dependency management
 - 🧶 [idiomatic-gradle](https://github.com/jjohannes/idiomatic-gradle) How to idiomatically structure a Gradle build
-- 🧩 [java-module-system](https://github.com/jjohannes/java-module-system) How to reduce _Gradle noise_ by using the Java Module System
 - 🔌 [gradle-plugins-howto](https://github.com/jjohannes/gradle-plugins-howto) How to write Gradle plugins - answers to questions and alternative implementation solutions
 - 📚 [gradle-demos](https://github.com/jjohannes/gradle-demos) A collection of samples demonstrating how to do different things in Gradles
+
+**Java Module and Dependency Management**
+- 🧩 [JavaRCA.de](https://javarca.de) **Java** **R**ecipe for **C**arefree dependency **A**dministration
+- 👾 [Javarcade game engine](https://github.com/jjohannes/javarcade) A modular Java project example – with or without `module-info.java`? Gradle or Maven?
 
 **Gradle Plugins maintained by me in the [GradleX](https://gradlex.org) project**
 - ⚙️ [build-parameters](https://github.com/gradlex-org/build-parameters) Compile-safe access to parameters supplied to a Gradle build
@@ -64,3 +67,8 @@
 [<img src="https://onepiecesoftware.github.io/img/videos/34.png" width="24%">](https://www.youtube.com/watch?v=n8Tgr4aLB18&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
 [<img src="https://onepiecesoftware.github.io/img/videos/35.png" width="24%">](https://www.youtube.com/watch?v=LhVhC86FVIY&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
 [<img src="https://onepiecesoftware.github.io/img/videos/36.png" width="24%">](https://www.youtube.com/watch?v=7ueAnM7ADm4&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
+
+**Understanding Java Module and Dependency Management video series**
+
+[<img src="https://javarca.de/00.png" width="24%">](https://www.youtube.com/watch?v=MUeJeiNRFFA&list=PLWQK2ZdV4Yl2bV3dTE7qxJUhjV8a1uriD)
+[<img src="https://javarca.de/01.png" width="24%">](https://www.youtube.com/watch?v=rEA-QfhdSPo&list=PLWQK2ZdV4Yl2bV3dTE7qxJUhjV8a1uriD)
