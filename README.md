@@ -67,6 +67,7 @@
 [<img src="https://onepiecesoftware.github.io/img/videos/34.png" width="24%">](https://www.youtube.com/watch?v=n8Tgr4aLB18&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
 [<img src="https://onepiecesoftware.github.io/img/videos/35.png" width="24%">](https://www.youtube.com/watch?v=LhVhC86FVIY&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
 [<img src="https://onepiecesoftware.github.io/img/videos/36.png" width="24%">](https://www.youtube.com/watch?v=7ueAnM7ADm4&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
+[<img src="https://onepiecesoftware.github.io/img/videos/37.png" width="24%">](https://www.youtube.com/watch?v=zyrGN6_0Tn4&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE)
 
 **Understanding Java Module and Dependency Management video series**
 
