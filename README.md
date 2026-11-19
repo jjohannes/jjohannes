@@ -6,17 +6,17 @@
 - ✨ Support with your Gradle project [onepiece.Software/#consulting](https://onepiece.software/#consulting)
 
 **Most of my online content is free. If you want to support my work...**
-- 🗣️ Tell others about my work, [subscribe to my YouTube channel](https://youtube.com/@jjohannes), Star my GitHub repositories, [follow me on Mastodon](https://mastodon.social/@jendrik)
-- 💬 Give feedback and ask questions: Use the YouTube comment sections or open an issue in one of my GitHub repositories
+- 🗣️ Tell others about my work, [subscribe to my YouTube channel](https://youtube.com/@jjohannes), Star my [Codeberg repositories](https://codeberg.org/jjohannes), [follow me on Mastodon](https://mastodon.social/@jendrik)
+- 💬 Give feedback and ask questions: Use the YouTube comment sections or open an issue in one of my [Codeberg repositories](https://codeberg.org/jjohannes)
 - 💚 If my work helps you, you can support me in doing more: [paypal.me/onepiecesw](https://paypal.me/onepiecesw) 
 
-**Gradle How-To GitHub repositories**
+**Gradle How-To Repositories**
 - 🗂️ [gradle-project-setup-howto](https://github.com/jjohannes/gradle-project-setup-howto) How to structure a growing Gradle project with smart dependency management
 - 🧶 [idiomatic-gradle](https://github.com/jjohannes/idiomatic-gradle) How to idiomatically structure a Gradle build
 - 🔌 [gradle-plugins-howto](https://github.com/jjohannes/gradle-plugins-howto) How to write Gradle plugins - answers to questions and alternative implementation solutions
 - 📚 [gradle-demos](https://github.com/jjohannes/gradle-demos) A collection of samples demonstrating how to do different things in Gradles
 
-**Java Module and Dependency Management**
+**Java Modules and Dependency Management**
 - 🧩 [JavaRCA.de](https://javarca.de) **Java** **R**ecipe for **C**arefree dependency **A**dministration
 - 👾 [Javarcade game engine](https://github.com/jjohannes/javarcade) A modular Java project example – with or without `module-info.java`? Gradle or Maven?
 
