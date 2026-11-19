@@ -20,12 +20,16 @@
 - 🧩 [JavaRCA.de](https://javarca.de) **Java** **R**ecipe for **C**arefree dependency **A**dministration
 - 👾 [Javarcade game engine](https://github.com/jjohannes/javarcade) A modular Java project example – with or without `module-info.java`? Gradle or Maven?
 
-**Gradle Plugins maintained by me in the [GradleX](https://gradlex.org) project**
-- ⚙️ [build-parameters](https://github.com/gradlex-org/build-parameters) Compile-safe access to parameters supplied to a Gradle build
-- 📖 [jvm-dependency-conflict-resolution](https://github.com/gradlex-org/jvm-dependency-conflict-resolution) Adds Capabilities to well-known Components hosted on Maven Central
+**Gradle and Maven Plugins maintained by me in the [GradleX](https://gradlex.org) project**
+- 📖 [jvm-dependency-conflict-resolution](https://github.com/gradlex-org/jvm-dependency-conflict-resolution) Better dependency conflict detection and resolution
 - 🍯 [extra-java-module-info](https://github.com/gradlex-org/extra-java-module-info) Add Java Module information to legacy Java libraries
-- 🔄 [java-module-dependencies](https://github.com/gradlex-org/java-module-dependencies) Makes Gradle respect the dependencies defined in 'module-info.java' files
+- 🔄 [java-module-dependencies](https://github.com/gradlex-org/java-module-dependencies) Use dependencies from `module-info.java` files
 - 🔍 [java-module-testing](https://github.com/gradlex-org/java-module-testing) Test Java Modules (whitebox and blackbox) without the hassle
+- 📦 [java-module-packaging](https://github.com/gradlex-org/java-module-packaging) Multi-os packaging of stand-alone Java applications
+- ⚙️ [build-parameters](https://github.com/gradlex-org/build-parameters) Compile-safe access to Gradle build parameters
+- ♻️ [reproducible-builds](https://github.com/gradlex-org/reproducible-builds) Reproducibility settings for Gradle’s built-in task
+- 🐧 [gradle-module-metadata-maven-plugin](https://github.com/gradlex-org/gradle-module-metadata-maven-plugin) Publish _Gradle Module Metadata_ from Maven
+- 🐦 [java-module-dependencies-maven-extension](https://github.com/gradlex-org/java-module-dependencies-maven-extension) Use dependencies from `module-info.java` files in Maven
 
 **Understanding Gradle video series**
 
